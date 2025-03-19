@@ -1,0 +1,41 @@
+{
+    "pizzas": 
+    [
+        { 
+            "name": "Margherita", 
+            "price": 79, 
+            "description": "Tomatsauce, mozzarella, basilikum",
+            "image": "images/margherita_small.jpg" 
+        },
+
+        { 
+            "name": "Hawaii", 
+            "price": 89, 
+            "description": "Tomatsauce, mozzarella, annanas",
+            "image": "images/hawaiian_small.jpg"
+        },
+
+        { 
+            "name": "Vegetar", 
+            "price": 85, 
+            "description": "Tomatsauce, mozzarella, pepperoni",
+            "image": "images/pepperoni_small.jpg"
+        },
+
+        {
+            "name": "Pasta", 
+            "price": 69, 
+            "description": "Tomatsauce, mozzarella, basilikum",
+            "image": "images/creamy_mushroom_small.jpg" 
+        },
+
+        {
+            "name": "Diddydrink", 
+            "price": 79, 
+            "description": "Tomatsauce, mozzarella, basilikum",
+            "image": "images/sparkles_small.jpg" 
+        }
+        
+    ]
+
+}
